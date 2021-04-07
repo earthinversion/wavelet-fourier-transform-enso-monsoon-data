@@ -148,8 +148,8 @@ For the analysis of the ENSO dataset [Figure below (a-d)], we see that most of t
 (a) and (e) shows the time series in °C and mm, respectively for ENSO and Indian monsoon. (b) and (f) shows the Fourier Transform, (c) and (g) show the Power spectrum of ENSO and Indian monsoon respectively. (Image by Author)
 
 ## References
-Chao, B. F., Chung, W., Shih, Z., & Hsieh, Y. (2014). Earth's rotation variations: A wavelet analysis. Terra Nova, 26(4), 260–264. https://doi.org/10.1111/ter.12094
-Franks, L. E. (1969). Signal theory.
-Papoulis, A. (1977). Signal analysis (Vol. 191). McGraw-Hill New York.
-Torrence, C., & Compo, G. P. (1998). A practical guide to wavelet analysis. Bulletin of the American Meteorological Society, 79(1), 61–78.
-Wavelet transform (Wikipedia)
+1. Chao, B. F., Chung, W., Shih, Z., & Hsieh, Y. (2014). Earth's rotation variations: A wavelet analysis. Terra Nova, 26(4), 260–264. https://doi.org/10.1111/ter.12094
+1. Franks, L. E. (1969). Signal theory.
+1. Papoulis, A. (1977). Signal analysis (Vol. 191). McGraw-Hill New York.
+1. Torrence, C., & Compo, G. P. (1998). A practical guide to wavelet analysis. Bulletin of the American Meteorological Society, 79(1), 61–78.
+1. Wavelet transform (Wikipedia)
