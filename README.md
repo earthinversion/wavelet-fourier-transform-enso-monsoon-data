@@ -153,6 +153,7 @@ For the analysis of the ENSO dataset [Figure below (a-d)], we see that most of t
 (a) and (e) shows the time series in °C and mm, respectively for ENSO and Indian monsoon. (b) and (f) shows the Fourier Transform, (c) and (g) show the Power spectrum of ENSO and Indian monsoon respectively. (Image by Author)
 
 ## References
+1. Kumar, U., B. F. Chao, and E. T.-Y. Y. Chang (2020). What Causes the Common‐Mode Error in Array GPS Displacement Fields: Case Study for Taiwan in Relation to Atmospheric Mass Loading, Earth Sp. Sci., 0–2, doi: 10.1029/2020ea001159.
 1. Chao, B. F., Chung, W., Shih, Z., & Hsieh, Y. (2014). Earth's rotation variations: A wavelet analysis. Terra Nova, 26(4), 260–264. https://doi.org/10.1111/ter.12094
 1. Franks, L. E. (1969). Signal theory.
 1. Papoulis, A. (1977). Signal analysis (Vol. 191). McGraw-Hill New York.
